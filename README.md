@@ -1,4 +1,4 @@
-# Custom Object Detection with YOLOv11: Industrial Components
+# Custom Object Detection with YOLOv26: Industrial Components
 
 ## Overview
 This project demonstrates a complete professional workflow for developing a custom object detection system using **YOLOv11**, the latest state-of-the-art iteration from Ultralytics. 
@@ -6,7 +6,7 @@ This project demonstrates a complete professional workflow for developing a cust
 The primary goal was to overcome the limitations of generic pre-trained models by training a neural network to recognize specific industrial objects: **Green Circles, Brown Circles, and Green Squares**.
 
 ## Tech Stack
-* **Model:** YOLOv11s (Small) - Optimized for a balance between speed and accuracy.
+* **Model:** YOLOv26s (Small) - Optimized for a balance between speed and accuracy.
 * **Framework:** Ultralytics.
 * **Environment:** Google Colab with NVIDIA T4 GPU.
 * **Dataset Management:** Roboflow.
